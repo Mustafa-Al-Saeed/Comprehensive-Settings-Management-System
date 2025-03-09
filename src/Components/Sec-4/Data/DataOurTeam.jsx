@@ -53,7 +53,7 @@ export const DataOurTeam = [
   [
     {
       image: FourthPhoto,
-      title: "ssssssssssssssssss to Business Leaders",
+      title: "Introduction to Business Leaders",
       phara_1:
         "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.",
       time: "09:00 am - 4:30 pm",
@@ -94,7 +94,7 @@ export const DataOurTeam = [
   [
     {
       image: seventhPhoto,
-      title: "aaaaaaaaaaaaaaaaa to Business Leaders",
+      title: "Introduction to Business Leaders",
       phara_1:
         "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.",
       time: "09:00 am - 4:30 pm",
